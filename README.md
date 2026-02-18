@@ -1,2 +1,12 @@
-# Alexandre_PROUST
-Profile readme
+# 💫 About Me:
+👋 Hi, I’m Alexandre<br><br>I’m a freelance developer specialized in React, Next.js, and React Native, based in Rennes, France 🇫🇷 — and open to remote opportunities worldwide.<br><br>I support my clients from idea to production:<br><br>⚛️ Modern front-end development with React / Next.js<br><br>📱 Mobile applications with React Native<br><br>🔙 Fullstack development with Node.js (framework-agnostic — I adapt to your stack)<br><br>🎨 UX/UI design in Figma, building clean and user-centered interfaces<br><br>🚀 CI/CD setup and deployment, ensuring projects are properly versioned, scalable, and production-ready<br><br>I enjoy building products that are performant, maintainable, and thoughtfully designed — both technically and from a user experience perspective.<br><br>💼 I’m currently working as a freelancer, and I’m also open to full-time or fixed-term opportunities if the project and team are a great fit.<br><br>If you value clean code, well-structured projects, and meaningful digital products, we’ll probably get along well 🤝
+
+
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/https://bsky.app/profile/alexpst.bsky.social) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alexandre-proust-48437919b/) 
+
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+---
+[![](https://visitcount.itsvg.in/api?id=AlexPst-Dev&icon=0&color=0)](https://visitcount.itsvg.in)
